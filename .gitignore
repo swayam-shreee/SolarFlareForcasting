@@ -1,0 +1,11 @@
+# Ignore the entire Data directory containing the heavy tarball partitions
+Data/
+
+# Ignore any random compressed archives or zip variants
+*.tar.gz
+*.zip
+*.tgz
+
+# Ignore local checkpoints created by Colab/Jupyter memory states
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
