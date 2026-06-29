@@ -1,6 +1,9 @@
 # Ignore the entire Data directory containing the heavy tarball partitions
 Data/
 
+# Ignore the processed folder
+processed/
+
 # Ignore any random compressed archives or zip variants
 *.tar.gz
 *.zip
