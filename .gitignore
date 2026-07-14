@@ -1,5 +1,6 @@
 # Ignore the entire Data directory containing the heavy tarball partitions
 Data/
+processed_tensors/
 
 # Ignore the processed folder
 processed/
