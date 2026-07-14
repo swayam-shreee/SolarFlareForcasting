@@ -1,6 +1,7 @@
 # Ignore the entire Data directory containing the heavy tarball partitions
 Data/
 processed_tensors/
+model_ready_partition_split/
 
 # Ignore the processed folder
 processed/
