@@ -2,9 +2,8 @@
 Data/
 processed_tensors/
 model_ready_partition_split/
-
-# Ignore the processed folder
 processed/
+Results/
 
 # Ignore any random compressed archives or zip variants
 *.tar.gz
